@@ -1,0 +1,59 @@
+
+.content{
+  width:30%;
+  float:left;
+  padding:0 0 0 20px;
+  background:red;
+}
+.sidebar{
+  width:30%;
+  float:right;
+  margin-top: 20px;
+  background: green;
+  padding:0 0 0 30px;
+}
+
+h1{
+  text-align: center;
+  border-bottom: 1px solid #bbb;
+  padding-bottom: 10px;
+  height: 100%;
+}
+#sh{
+  text-align: center;
+}
+body{
+  color: white;
+  background-color: red;
+}
+#date,#ch{
+  color: yellow;
+  font-size: 12px;
+  font-style: italic;
+}
+
+h2{
+  color: cyan;
+}
+
+#comment{
+  color: yellow;
+  font-size: 16px;
+  font-style:italic;
+}
+
+#pcount{
+  font-size: 40px;
+  color:yellow;
+  font-weight:bold;
+
+}
+#link{
+    color: white;
+}
+
+input[type="text"],input[type="email"], textarea {
+
+  background-color : white;
+  color: black;
+}
